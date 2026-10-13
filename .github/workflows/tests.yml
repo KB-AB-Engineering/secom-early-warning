@@ -1,0 +1,30 @@
+name: tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.11", "3.12", "3.13"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: pytest -q
+      - name: Smoke test of the dashboard
+        run: |
+          python - <<'PY'
+          from streamlit.testing.v1 import AppTest
+          for page in ["Overview", "SPC monitor", "Lot triage", "Key parameters", "Data audit"]:
+              at = AppTest.from_file("app/dashboard.py", default_timeout=300)
+              at.run()
+              at.sidebar.radio[0].set_value(page).run()
+              assert not at.exception, (page, at.exception)
+          PY
