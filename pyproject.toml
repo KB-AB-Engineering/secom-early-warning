@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "secom-early-warning"
+version = "1.0.0"
+description = "Quality early warning on the SECOM production data: SPC, out-of-time lot triage and root-cause analysis"
+authors = [{ name = "Abderrahmane BOULAMI" }, { name = "Kawtar BELLAMINE" }]
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+license-files = ["LICENSE"]
+dependencies = [
+    "numpy>=1.26",
+    "pandas>=2.1",
+    "scipy>=1.11",
+    "scikit-learn>=1.4",
+    "lightgbm>=4.0",
+    "shap>=0.44",
+    "matplotlib>=3.8",
+    "streamlit>=1.51",
+    "altair>=5.0",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=8.0"]
+
+[tool.setuptools]
+packages = ["secomqc"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

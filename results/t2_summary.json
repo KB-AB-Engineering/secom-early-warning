@@ -1,0 +1,18 @@
+{
+  "sensors": [
+    "s59",
+    "s33",
+    "s21",
+    "s102",
+    "s103",
+    "s197"
+  ],
+  "ucl": 20.061901972375512,
+  "phase1_good_lots_above_ucl": 0.034482758620689655,
+  "design_false_alarm_rate": 0.0027,
+  "alarm_rate_phase2": 0.009400705052878966,
+  "alarms_phase2": 8,
+  "fail_rate_when_alarm_phase2": 0.25,
+  "fail_rate_when_quiet_phase2": 0.04151838671411625,
+  "p_at_least_this_many_failures_by_chance": 0.04444138492846146
+}

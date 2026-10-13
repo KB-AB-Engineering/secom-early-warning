@@ -1,0 +1,346 @@
+sensor,sigma,chart,shift_robust_sigma,source,phase1_lots,median_run_length,detected_share
+s59,std,shewhart,0.0,resampled real noise,346.0,121.0,0.592
+s59,std,shewhart,0.5,resampled real noise,346.0,121.0,0.592
+s59,std,shewhart,1.0,resampled real noise,346.0,121.0,0.592
+s59,std,shewhart,2.0,resampled real noise,346.0,121.0,0.592
+s59,std,shewhart,3.0,resampled real noise,346.0,58.0,0.83825
+s59,std,ewma,0.0,resampled real noise,346.0,151.0,0.36225
+s59,std,ewma,0.5,resampled real noise,346.0,151.0,0.39325
+s59,std,ewma,1.0,resampled real noise,346.0,151.0,0.4885
+s59,std,ewma,2.0,resampled real noise,346.0,52.0,0.8845
+s59,std,ewma,3.0,resampled real noise,346.0,18.0,1.0
+s59,std,cusum,0.0,resampled real noise,346.0,151.0,0.35175
+s59,std,cusum,0.5,resampled real noise,346.0,151.0,0.36025
+s59,std,cusum,1.0,resampled real noise,346.0,151.0,0.39025
+s59,std,cusum,2.0,resampled real noise,346.0,48.0,0.94875
+s59,std,cusum,3.0,resampled real noise,346.0,14.0,1.0
+s59,moving_range,shewhart,0.0,resampled real noise,346.0,21.0,0.9925
+s59,moving_range,shewhart,0.5,resampled real noise,346.0,21.0,0.9925
+s59,moving_range,shewhart,1.0,resampled real noise,346.0,18.0,0.9975
+s59,moving_range,shewhart,2.0,resampled real noise,346.0,16.0,0.999
+s59,moving_range,shewhart,3.0,resampled real noise,346.0,10.0,1.0
+s59,moving_range,ewma,0.0,resampled real noise,346.0,50.0,0.87225
+s59,moving_range,ewma,0.5,resampled real noise,346.0,35.0,0.95125
+s59,moving_range,ewma,1.0,resampled real noise,346.0,21.0,0.994
+s59,moving_range,ewma,2.0,resampled real noise,346.0,8.0,1.0
+s59,moving_range,ewma,3.0,resampled real noise,346.0,4.0,1.0
+s59,moving_range,cusum,0.0,resampled real noise,346.0,56.0,0.85525
+s59,moving_range,cusum,0.5,resampled real noise,346.0,44.0,0.914
+s59,moving_range,cusum,1.0,resampled real noise,346.0,24.0,0.994
+s59,moving_range,cusum,2.0,resampled real noise,346.0,8.0,1.0
+s59,moving_range,cusum,3.0,resampled real noise,346.0,5.0,1.0
+s59,robust,shewhart,0.0,resampled real noise,346.0,11.0,1.0
+s59,robust,shewhart,0.5,resampled real noise,346.0,10.0,1.0
+s59,robust,shewhart,1.0,resampled real noise,346.0,7.0,1.0
+s59,robust,shewhart,2.0,resampled real noise,346.0,4.0,1.0
+s59,robust,shewhart,3.0,resampled real noise,346.0,1.0,1.0
+s59,robust,ewma,0.0,resampled real noise,346.0,15.0,0.99925
+s59,robust,ewma,0.5,resampled real noise,346.0,10.0,1.0
+s59,robust,ewma,1.0,resampled real noise,346.0,6.0,1.0
+s59,robust,ewma,2.0,resampled real noise,346.0,2.0,1.0
+s59,robust,ewma,3.0,resampled real noise,346.0,1.0,1.0
+s59,robust,cusum,0.0,resampled real noise,346.0,16.0,0.998
+s59,robust,cusum,0.5,resampled real noise,346.0,11.0,1.0
+s59,robust,cusum,1.0,resampled real noise,346.0,7.0,1.0
+s59,robust,cusum,2.0,resampled real noise,346.0,3.0,1.0
+s59,robust,cusum,3.0,resampled real noise,346.0,2.0,1.0
+s59,winsorised (clip at 3 robust sigma),ewma,0.0,resampled real noise,346.0,151.0,0.3925
+s59,winsorised (clip at 3 robust sigma),ewma,0.5,resampled real noise,346.0,46.0,0.907
+s59,winsorised (clip at 3 robust sigma),ewma,1.0,resampled real noise,346.0,13.5,1.0
+s59,winsorised (clip at 3 robust sigma),ewma,2.0,resampled real noise,346.0,4.0,1.0
+s59,winsorised (clip at 3 robust sigma),ewma,3.0,resampled real noise,346.0,2.0,1.0
+s59,winsorised (clip at 3 robust sigma),cusum,0.0,resampled real noise,346.0,151.0,0.35825
+s59,winsorised (clip at 3 robust sigma),cusum,0.5,resampled real noise,346.0,49.0,0.8965
+s59,winsorised (clip at 3 robust sigma),cusum,1.0,resampled real noise,346.0,14.0,1.0
+s59,winsorised (clip at 3 robust sigma),cusum,2.0,resampled real noise,346.0,5.0,1.0
+s59,winsorised (clip at 3 robust sigma),cusum,3.0,resampled real noise,346.0,4.0,1.0
+s33,std,shewhart,0.0,resampled real noise,347.0,48.0,0.89025
+s33,std,shewhart,0.5,resampled real noise,347.0,48.0,0.89025
+s33,std,shewhart,1.0,resampled real noise,347.0,48.0,0.89025
+s33,std,shewhart,2.0,resampled real noise,347.0,48.0,0.89025
+s33,std,shewhart,3.0,resampled real noise,347.0,48.0,0.89025
+s33,std,ewma,0.0,resampled real noise,347.0,48.0,0.89025
+s33,std,ewma,0.5,resampled real noise,347.0,48.0,0.89025
+s33,std,ewma,1.0,resampled real noise,347.0,48.0,0.89025
+s33,std,ewma,2.0,resampled real noise,347.0,48.0,0.89025
+s33,std,ewma,3.0,resampled real noise,347.0,48.0,0.89025
+s33,std,cusum,0.0,resampled real noise,347.0,48.0,0.89025
+s33,std,cusum,0.5,resampled real noise,347.0,48.0,0.89025
+s33,std,cusum,1.0,resampled real noise,347.0,48.0,0.89025
+s33,std,cusum,2.0,resampled real noise,347.0,48.0,0.89025
+s33,std,cusum,3.0,resampled real noise,347.0,48.0,0.89025
+s33,moving_range,shewhart,0.0,resampled real noise,347.0,48.0,0.89025
+s33,moving_range,shewhart,0.5,resampled real noise,347.0,48.0,0.89025
+s33,moving_range,shewhart,1.0,resampled real noise,347.0,48.0,0.89025
+s33,moving_range,shewhart,2.0,resampled real noise,347.0,48.0,0.89025
+s33,moving_range,shewhart,3.0,resampled real noise,347.0,48.0,0.89025
+s33,moving_range,ewma,0.0,resampled real noise,347.0,48.0,0.89025
+s33,moving_range,ewma,0.5,resampled real noise,347.0,48.0,0.89025
+s33,moving_range,ewma,1.0,resampled real noise,347.0,48.0,0.89125
+s33,moving_range,ewma,2.0,resampled real noise,347.0,28.0,0.98575
+s33,moving_range,ewma,3.0,resampled real noise,347.0,9.0,1.0
+s33,moving_range,cusum,0.0,resampled real noise,347.0,48.0,0.89075
+s33,moving_range,cusum,0.5,resampled real noise,347.0,48.0,0.89025
+s33,moving_range,cusum,1.0,resampled real noise,347.0,48.0,0.891
+s33,moving_range,cusum,2.0,resampled real noise,347.0,27.0,0.9975
+s33,moving_range,cusum,3.0,resampled real noise,347.0,9.0,1.0
+s33,robust,shewhart,0.0,resampled real noise,347.0,9.0,1.0
+s33,robust,shewhart,0.5,resampled real noise,347.0,8.0,1.0
+s33,robust,shewhart,1.0,resampled real noise,347.0,6.0,1.0
+s33,robust,shewhart,2.0,resampled real noise,347.0,3.0,1.0
+s33,robust,shewhart,3.0,resampled real noise,347.0,1.0,1.0
+s33,robust,ewma,0.0,resampled real noise,347.0,17.0,0.9975
+s33,robust,ewma,0.5,resampled real noise,347.0,8.0,1.0
+s33,robust,ewma,1.0,resampled real noise,347.0,5.0,1.0
+s33,robust,ewma,2.0,resampled real noise,347.0,2.0,1.0
+s33,robust,ewma,3.0,resampled real noise,347.0,1.0,1.0
+s33,robust,cusum,0.0,resampled real noise,347.0,20.0,0.9965
+s33,robust,cusum,0.5,resampled real noise,347.0,11.0,1.0
+s33,robust,cusum,1.0,resampled real noise,347.0,6.0,1.0
+s33,robust,cusum,2.0,resampled real noise,347.0,3.0,1.0
+s33,robust,cusum,3.0,resampled real noise,347.0,2.0,1.0
+s33,winsorised (clip at 3 robust sigma),ewma,0.0,resampled real noise,347.0,151.0,0.41425
+s33,winsorised (clip at 3 robust sigma),ewma,0.5,resampled real noise,347.0,37.0,0.95525
+s33,winsorised (clip at 3 robust sigma),ewma,1.0,resampled real noise,347.0,13.0,1.0
+s33,winsorised (clip at 3 robust sigma),ewma,2.0,resampled real noise,347.0,4.0,1.0
+s33,winsorised (clip at 3 robust sigma),ewma,3.0,resampled real noise,347.0,2.0,1.0
+s33,winsorised (clip at 3 robust sigma),cusum,0.0,resampled real noise,347.0,151.0,0.43175
+s33,winsorised (clip at 3 robust sigma),cusum,0.5,resampled real noise,347.0,44.0,0.927
+s33,winsorised (clip at 3 robust sigma),cusum,1.0,resampled real noise,347.0,14.0,1.0
+s33,winsorised (clip at 3 robust sigma),cusum,2.0,resampled real noise,347.0,5.0,1.0
+s33,winsorised (clip at 3 robust sigma),cusum,3.0,resampled real noise,347.0,4.0,1.0
+s21,std,shewhart,0.0,resampled real noise,348.0,151.0,0.35075
+s21,std,shewhart,0.5,resampled real noise,348.0,151.0,0.35075
+s21,std,shewhart,1.0,resampled real noise,348.0,40.0,0.92725
+s21,std,shewhart,2.0,resampled real noise,348.0,3.0,1.0
+s21,std,shewhart,3.0,resampled real noise,348.0,1.0,1.0
+s21,std,ewma,0.0,resampled real noise,348.0,151.0,0.366
+s21,std,ewma,0.5,resampled real noise,348.0,25.0,0.9935
+s21,std,ewma,1.0,resampled real noise,348.0,6.0,1.0
+s21,std,ewma,2.0,resampled real noise,348.0,2.0,1.0
+s21,std,ewma,3.0,resampled real noise,348.0,1.0,1.0
+s21,std,cusum,0.0,resampled real noise,348.0,151.0,0.37325
+s21,std,cusum,0.5,resampled real noise,348.0,25.0,0.99625
+s21,std,cusum,1.0,resampled real noise,348.0,8.0,1.0
+s21,std,cusum,2.0,resampled real noise,348.0,3.0,1.0
+s21,std,cusum,3.0,resampled real noise,348.0,2.0,1.0
+s21,moving_range,shewhart,0.0,resampled real noise,348.0,151.0,0.35075
+s21,moving_range,shewhart,0.5,resampled real noise,348.0,80.0,0.732
+s21,moving_range,shewhart,1.0,resampled real noise,348.0,40.0,0.92725
+s21,moving_range,shewhart,2.0,resampled real noise,348.0,2.0,1.0
+s21,moving_range,shewhart,3.0,resampled real noise,348.0,1.0,1.0
+s21,moving_range,ewma,0.0,resampled real noise,348.0,151.0,0.40625
+s21,moving_range,ewma,0.5,resampled real noise,348.0,18.0,0.99975
+s21,moving_range,ewma,1.0,resampled real noise,348.0,5.0,1.0
+s21,moving_range,ewma,2.0,resampled real noise,348.0,2.0,1.0
+s21,moving_range,ewma,3.0,resampled real noise,348.0,1.0,1.0
+s21,moving_range,cusum,0.0,resampled real noise,348.0,151.0,0.4345
+s21,moving_range,cusum,0.5,resampled real noise,348.0,19.0,0.99975
+s21,moving_range,cusum,1.0,resampled real noise,348.0,7.0,1.0
+s21,moving_range,cusum,2.0,resampled real noise,348.0,3.0,1.0
+s21,moving_range,cusum,3.0,resampled real noise,348.0,2.0,1.0
+s21,robust,shewhart,0.0,resampled real noise,348.0,151.0,0.35075
+s21,robust,shewhart,0.5,resampled real noise,348.0,151.0,0.35075
+s21,robust,shewhart,1.0,resampled real noise,348.0,117.0,0.59275
+s21,robust,shewhart,2.0,resampled real noise,348.0,8.0,1.0
+s21,robust,shewhart,3.0,resampled real noise,348.0,1.0,1.0
+s21,robust,ewma,0.0,resampled real noise,348.0,151.0,0.35625
+s21,robust,ewma,0.5,resampled real noise,348.0,34.0,0.97025
+s21,robust,ewma,1.0,resampled real noise,348.0,7.0,1.0
+s21,robust,ewma,2.0,resampled real noise,348.0,2.0,1.0
+s21,robust,ewma,3.0,resampled real noise,348.0,1.0,1.0
+s21,robust,cusum,0.0,resampled real noise,348.0,151.0,0.35575
+s21,robust,cusum,0.5,resampled real noise,348.0,29.0,0.99075
+s21,robust,cusum,1.0,resampled real noise,348.0,9.0,1.0
+s21,robust,cusum,2.0,resampled real noise,348.0,4.0,1.0
+s21,robust,cusum,3.0,resampled real noise,348.0,2.0,1.0
+s21,winsorised (clip at 3 robust sigma),ewma,0.0,resampled real noise,348.0,151.0,0.24025
+s21,winsorised (clip at 3 robust sigma),ewma,0.5,resampled real noise,348.0,15.0,1.0
+s21,winsorised (clip at 3 robust sigma),ewma,1.0,resampled real noise,348.0,4.0,1.0
+s21,winsorised (clip at 3 robust sigma),ewma,2.0,resampled real noise,348.0,2.0,1.0
+s21,winsorised (clip at 3 robust sigma),ewma,3.0,resampled real noise,348.0,1.0,1.0
+s21,winsorised (clip at 3 robust sigma),cusum,0.0,resampled real noise,348.0,151.0,0.29325
+s21,winsorised (clip at 3 robust sigma),cusum,0.5,resampled real noise,348.0,16.0,1.0
+s21,winsorised (clip at 3 robust sigma),cusum,1.0,resampled real noise,348.0,6.0,1.0
+s21,winsorised (clip at 3 robust sigma),cusum,2.0,resampled real noise,348.0,3.0,1.0
+s21,winsorised (clip at 3 robust sigma),cusum,3.0,resampled real noise,348.0,2.0,1.0
+s102,std,shewhart,0.0,resampled real noise,347.0,60.0,0.822
+s102,std,shewhart,0.5,resampled real noise,347.0,49.0,0.881
+s102,std,shewhart,1.0,resampled real noise,347.0,41.0,0.921
+s102,std,shewhart,2.0,resampled real noise,347.0,7.0,1.0
+s102,std,shewhart,3.0,resampled real noise,347.0,3.0,1.0
+s102,std,ewma,0.0,resampled real noise,347.0,106.5,0.62675
+s102,std,ewma,0.5,resampled real noise,347.0,33.0,0.96225
+s102,std,ewma,1.0,resampled real noise,347.0,10.0,1.0
+s102,std,ewma,2.0,resampled real noise,347.0,3.0,1.0
+s102,std,ewma,3.0,resampled real noise,347.0,2.0,1.0
+s102,std,cusum,0.0,resampled real noise,347.0,99.0,0.654
+s102,std,cusum,0.5,resampled real noise,347.0,36.0,0.9675
+s102,std,cusum,1.0,resampled real noise,347.0,11.0,1.0
+s102,std,cusum,2.0,resampled real noise,347.0,4.0,1.0
+s102,std,cusum,3.0,resampled real noise,347.0,3.0,1.0
+s102,moving_range,shewhart,0.0,resampled real noise,347.0,41.0,0.9255
+s102,moving_range,shewhart,0.5,resampled real noise,347.0,41.0,0.91975
+s102,moving_range,shewhart,1.0,resampled real noise,347.0,24.0,0.98625
+s102,moving_range,shewhart,2.0,resampled real noise,347.0,5.0,1.0
+s102,moving_range,shewhart,3.0,resampled real noise,347.0,2.0,1.0
+s102,moving_range,ewma,0.0,resampled real noise,347.0,75.0,0.75425
+s102,moving_range,ewma,0.5,resampled real noise,347.0,22.0,0.99525
+s102,moving_range,ewma,1.0,resampled real noise,347.0,7.0,1.0
+s102,moving_range,ewma,2.0,resampled real noise,347.0,3.0,1.0
+s102,moving_range,ewma,3.0,resampled real noise,347.0,2.0,1.0
+s102,moving_range,cusum,0.0,resampled real noise,347.0,76.0,0.749
+s102,moving_range,cusum,0.5,resampled real noise,347.0,24.0,0.99775
+s102,moving_range,cusum,1.0,resampled real noise,347.0,9.0,1.0
+s102,moving_range,cusum,2.0,resampled real noise,347.0,4.0,1.0
+s102,moving_range,cusum,3.0,resampled real noise,347.0,3.0,1.0
+s102,robust,shewhart,0.0,resampled real noise,347.0,41.0,0.9255
+s102,robust,shewhart,0.5,resampled real noise,347.0,24.0,0.987
+s102,robust,shewhart,1.0,resampled real noise,347.0,10.0,1.0
+s102,robust,shewhart,2.0,resampled real noise,347.0,4.0,1.0
+s102,robust,shewhart,3.0,resampled real noise,347.0,2.0,1.0
+s102,robust,ewma,0.0,resampled real noise,347.0,52.0,0.86325
+s102,robust,ewma,0.5,resampled real noise,347.0,15.0,0.99975
+s102,robust,ewma,1.0,resampled real noise,347.0,6.0,1.0
+s102,robust,ewma,2.0,resampled real noise,347.0,2.0,1.0
+s102,robust,ewma,3.0,resampled real noise,347.0,1.0,1.0
+s102,robust,cusum,0.0,resampled real noise,347.0,56.0,0.8605
+s102,robust,cusum,0.5,resampled real noise,347.0,17.0,0.99975
+s102,robust,cusum,1.0,resampled real noise,347.0,7.0,1.0
+s102,robust,cusum,2.0,resampled real noise,347.0,3.0,1.0
+s102,robust,cusum,3.0,resampled real noise,347.0,2.0,1.0
+s102,winsorised (clip at 3 robust sigma),ewma,0.0,resampled real noise,347.0,151.0,0.3935
+s102,winsorised (clip at 3 robust sigma),ewma,0.5,resampled real noise,347.0,27.0,0.9855
+s102,winsorised (clip at 3 robust sigma),ewma,1.0,resampled real noise,347.0,9.0,1.0
+s102,winsorised (clip at 3 robust sigma),ewma,2.0,resampled real noise,347.0,3.0,1.0
+s102,winsorised (clip at 3 robust sigma),ewma,3.0,resampled real noise,347.0,2.0,1.0
+s102,winsorised (clip at 3 robust sigma),cusum,0.0,resampled real noise,347.0,151.0,0.35775
+s102,winsorised (clip at 3 robust sigma),cusum,0.5,resampled real noise,347.0,31.0,0.98225
+s102,winsorised (clip at 3 robust sigma),cusum,1.0,resampled real noise,347.0,10.0,1.0
+s102,winsorised (clip at 3 robust sigma),cusum,2.0,resampled real noise,347.0,4.0,1.0
+s102,winsorised (clip at 3 robust sigma),cusum,3.0,resampled real noise,347.0,3.0,1.0
+s103,std,shewhart,0.0,resampled real noise,348.0,78.0,0.74
+s103,std,shewhart,0.5,resampled real noise,348.0,78.0,0.74
+s103,std,shewhart,1.0,resampled real noise,348.0,47.0,0.89775
+s103,std,shewhart,2.0,resampled real noise,348.0,22.0,0.99125
+s103,std,shewhart,3.0,resampled real noise,348.0,6.0,1.0
+s103,std,ewma,0.0,resampled real noise,348.0,151.0,0.47725
+s103,std,ewma,0.5,resampled real noise,348.0,59.0,0.8425
+s103,std,ewma,1.0,resampled real noise,348.0,19.0,0.99975
+s103,std,ewma,2.0,resampled real noise,348.0,5.0,1.0
+s103,std,ewma,3.0,resampled real noise,348.0,2.0,1.0
+s103,std,cusum,0.0,resampled real noise,348.0,151.0,0.4365
+s103,std,cusum,0.5,resampled real noise,348.0,71.0,0.78275
+s103,std,cusum,1.0,resampled real noise,348.0,19.0,1.0
+s103,std,cusum,2.0,resampled real noise,348.0,6.0,1.0
+s103,std,cusum,3.0,resampled real noise,348.0,4.0,1.0
+s103,moving_range,shewhart,0.0,resampled real noise,348.0,48.0,0.8865
+s103,moving_range,shewhart,0.5,resampled real noise,348.0,40.0,0.9325
+s103,moving_range,shewhart,1.0,resampled real noise,348.0,30.0,0.97475
+s103,moving_range,shewhart,2.0,resampled real noise,348.0,9.0,1.0
+s103,moving_range,shewhart,3.0,resampled real noise,348.0,3.0,1.0
+s103,moving_range,ewma,0.0,resampled real noise,348.0,95.0,0.66225
+s103,moving_range,ewma,0.5,resampled real noise,348.0,35.0,0.96
+s103,moving_range,ewma,1.0,resampled real noise,348.0,11.0,1.0
+s103,moving_range,ewma,2.0,resampled real noise,348.0,3.0,1.0
+s103,moving_range,ewma,3.0,resampled real noise,348.0,2.0,1.0
+s103,moving_range,cusum,0.0,resampled real noise,348.0,104.0,0.626
+s103,moving_range,cusum,0.5,resampled real noise,348.0,38.0,0.956
+s103,moving_range,cusum,1.0,resampled real noise,348.0,13.0,1.0
+s103,moving_range,cusum,2.0,resampled real noise,348.0,5.0,1.0
+s103,moving_range,cusum,3.0,resampled real noise,348.0,3.0,1.0
+s103,robust,shewhart,0.0,resampled real noise,348.0,34.0,0.956
+s103,robust,shewhart,0.5,resampled real noise,348.0,24.0,0.98825
+s103,robust,shewhart,1.0,resampled real noise,348.0,16.0,0.99875
+s103,robust,shewhart,2.0,resampled real noise,348.0,4.0,1.0
+s103,robust,shewhart,3.0,resampled real noise,348.0,1.0,1.0
+s103,robust,ewma,0.0,resampled real noise,348.0,48.0,0.88925
+s103,robust,ewma,0.5,resampled real noise,348.0,18.0,0.9995
+s103,robust,ewma,1.0,resampled real noise,348.0,7.0,1.0
+s103,robust,ewma,2.0,resampled real noise,348.0,2.0,1.0
+s103,robust,ewma,3.0,resampled real noise,348.0,1.0,1.0
+s103,robust,cusum,0.0,resampled real noise,348.0,46.0,0.908
+s103,robust,cusum,0.5,resampled real noise,348.0,20.0,0.99875
+s103,robust,cusum,1.0,resampled real noise,348.0,8.0,1.0
+s103,robust,cusum,2.0,resampled real noise,348.0,4.0,1.0
+s103,robust,cusum,3.0,resampled real noise,348.0,2.0,1.0
+s103,winsorised (clip at 3 robust sigma),ewma,0.0,resampled real noise,348.0,151.0,0.353
+s103,winsorised (clip at 3 robust sigma),ewma,0.5,resampled real noise,348.0,34.0,0.9675
+s103,winsorised (clip at 3 robust sigma),ewma,1.0,resampled real noise,348.0,10.0,1.0
+s103,winsorised (clip at 3 robust sigma),ewma,2.0,resampled real noise,348.0,3.0,1.0
+s103,winsorised (clip at 3 robust sigma),ewma,3.0,resampled real noise,348.0,2.0,1.0
+s103,winsorised (clip at 3 robust sigma),cusum,0.0,resampled real noise,348.0,151.0,0.32225
+s103,winsorised (clip at 3 robust sigma),cusum,0.5,resampled real noise,348.0,37.0,0.967
+s103,winsorised (clip at 3 robust sigma),cusum,1.0,resampled real noise,348.0,11.0,1.0
+s103,winsorised (clip at 3 robust sigma),cusum,2.0,resampled real noise,348.0,4.0,1.0
+s103,winsorised (clip at 3 robust sigma),cusum,3.0,resampled real noise,348.0,3.0,1.0
+s197,std,shewhart,0.0,resampled real noise,347.0,123.0,0.577
+s197,std,shewhart,0.5,resampled real noise,347.0,123.0,0.577
+s197,std,shewhart,1.0,resampled real noise,347.0,123.0,0.577
+s197,std,shewhart,2.0,resampled real noise,347.0,123.0,0.577
+s197,std,shewhart,3.0,resampled real noise,347.0,123.0,0.577
+s197,std,ewma,0.0,resampled real noise,347.0,142.0,0.5235
+s197,std,ewma,0.5,resampled real noise,347.0,123.0,0.57575
+s197,std,ewma,1.0,resampled real noise,347.0,123.0,0.577
+s197,std,ewma,2.0,resampled real noise,347.0,123.0,0.577
+s197,std,ewma,3.0,resampled real noise,347.0,121.0,0.5835
+s197,std,cusum,0.0,resampled real noise,347.0,151.0,0.3515
+s197,std,cusum,0.5,resampled real noise,347.0,123.0,0.577
+s197,std,cusum,1.0,resampled real noise,347.0,123.0,0.577
+s197,std,cusum,2.0,resampled real noise,347.0,123.0,0.577
+s197,std,cusum,3.0,resampled real noise,347.0,38.0,1.0
+s197,moving_range,shewhart,0.0,resampled real noise,347.0,123.0,0.577
+s197,moving_range,shewhart,0.5,resampled real noise,347.0,81.0,0.73025
+s197,moving_range,shewhart,1.0,resampled real noise,347.0,61.0,0.82625
+s197,moving_range,shewhart,2.0,resampled real noise,347.0,30.0,0.97325
+s197,moving_range,shewhart,3.0,resampled real noise,347.0,11.0,1.0
+s197,moving_range,ewma,0.0,resampled real noise,347.0,115.0,0.60425
+s197,moving_range,ewma,0.5,resampled real noise,347.0,103.0,0.6385
+s197,moving_range,ewma,1.0,resampled real noise,347.0,39.0,0.94925
+s197,moving_range,ewma,2.0,resampled real noise,347.0,7.0,1.0
+s197,moving_range,ewma,3.0,resampled real noise,347.0,3.0,1.0
+s197,moving_range,cusum,0.0,resampled real noise,347.0,116.0,0.599
+s197,moving_range,cusum,0.5,resampled real noise,347.0,112.0,0.61375
+s197,moving_range,cusum,1.0,resampled real noise,347.0,39.0,0.96025
+s197,moving_range,cusum,2.0,resampled real noise,347.0,7.0,1.0
+s197,moving_range,cusum,3.0,resampled real noise,347.0,4.0,1.0
+s197,robust,shewhart,0.0,resampled real noise,347.0,41.0,0.93125
+s197,robust,shewhart,0.5,resampled real noise,347.0,21.0,0.99525
+s197,robust,shewhart,1.0,resampled real noise,347.0,13.0,0.99975
+s197,robust,shewhart,2.0,resampled real noise,347.0,4.0,1.0
+s197,robust,shewhart,3.0,resampled real noise,347.0,1.0,1.0
+s197,robust,ewma,0.0,resampled real noise,347.0,54.0,0.86575
+s197,robust,ewma,0.5,resampled real noise,347.0,16.0,1.0
+s197,robust,ewma,1.0,resampled real noise,347.0,6.0,1.0
+s197,robust,ewma,2.0,resampled real noise,347.0,2.0,1.0
+s197,robust,ewma,3.0,resampled real noise,347.0,1.0,1.0
+s197,robust,cusum,0.0,resampled real noise,347.0,59.0,0.85475
+s197,robust,cusum,0.5,resampled real noise,347.0,18.0,0.99975
+s197,robust,cusum,1.0,resampled real noise,347.0,8.0,1.0
+s197,robust,cusum,2.0,resampled real noise,347.0,4.0,1.0
+s197,robust,cusum,3.0,resampled real noise,347.0,2.0,1.0
+s197,winsorised (clip at 3 robust sigma),ewma,0.0,resampled real noise,347.0,151.0,0.39525
+s197,winsorised (clip at 3 robust sigma),ewma,0.5,resampled real noise,347.0,31.0,0.975
+s197,winsorised (clip at 3 robust sigma),ewma,1.0,resampled real noise,347.0,9.0,1.0
+s197,winsorised (clip at 3 robust sigma),ewma,2.0,resampled real noise,347.0,3.0,1.0
+s197,winsorised (clip at 3 robust sigma),ewma,3.0,resampled real noise,347.0,2.0,1.0
+s197,winsorised (clip at 3 robust sigma),cusum,0.0,resampled real noise,347.0,151.0,0.3585
+s197,winsorised (clip at 3 robust sigma),cusum,0.5,resampled real noise,347.0,33.0,0.97575
+s197,winsorised (clip at 3 robust sigma),cusum,1.0,resampled real noise,347.0,10.0,1.0
+s197,winsorised (clip at 3 robust sigma),cusum,2.0,resampled real noise,347.0,4.0,1.0
+s197,winsorised (clip at 3 robust sigma),cusum,3.0,resampled real noise,347.0,3.0,1.0
+theory,normal,shewhart,0.0,normal theory,,151.0,0.347
+theory,normal,shewhart,0.5,normal theory,,111.0,0.61275
+theory,normal,shewhart,1.0,normal theory,,30.0,0.96775
+theory,normal,shewhart,2.0,normal theory,,5.0,1.0
+theory,normal,shewhart,3.0,normal theory,,2.0,1.0
+theory,normal,ewma,0.0,normal theory,,151.0,0.343
+theory,normal,ewma,0.5,normal theory,,26.0,0.991
+theory,normal,ewma,1.0,normal theory,,8.0,1.0
+theory,normal,ewma,2.0,normal theory,,2.0,1.0
+theory,normal,ewma,3.0,normal theory,,1.0,1.0
+theory,normal,cusum,0.0,normal theory,,151.0,0.32575
+theory,normal,cusum,0.5,normal theory,,28.0,0.994
+theory,normal,cusum,1.0,normal theory,,9.0,1.0
+theory,normal,cusum,2.0,normal theory,,4.0,1.0
+theory,normal,cusum,3.0,normal theory,,2.0,1.0

@@ -1,0 +1,5 @@
+protocol,auc,fold_min,fold_max,folds
+"Random CV, sensors chosen on all data (leaky)",0.7763066536945633,0.7183626875407697,0.8426783682756378,15
+"Random CV, sensors chosen inside each fold",0.7411762313665162,0.6635681669928245,0.8031854379977247,15
+"Random CV, scored on the Sept-Oct lots only",0.7240838455796387,0.5171428571428571,0.897497982243745,15
+"Chronological: train on the past, test the next block",0.6856835191083507,0.5330065359477124,0.7810810810810811,5

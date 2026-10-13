@@ -1,0 +1,27 @@
+{
+  "fail_change_time": "2008-08-21 11:22:00",
+  "fail_change_interval": [
+    "2008-08-04 13:19:00",
+    "2008-08-28 18:15:00"
+  ],
+  "fail_rate_before": 0.14488636363636365,
+  "fail_rate_after": 0.043621399176954734,
+  "lots_before": 352,
+  "p_value": 0.000999000999000999,
+  "p_value_note": "1/(1000+1) is the smallest value 1000 permutations can give",
+  "sensors_tested": 321,
+  "sensors_with_strong_shift": 103,
+  "strong_shifts_within_3_days": [
+    "s79",
+    "s59",
+    "s247",
+    "s519",
+    "s468",
+    "s30",
+    "s348",
+    "s210",
+    "s138"
+  ],
+  "strong_shifts_in_random_6_day_window_median": 7.0,
+  "share_of_windows_with_as_many": 0.38392857142857145
+}

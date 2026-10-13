@@ -1,0 +1,23 @@
+{
+  "lots": 1567,
+  "sensors": 590,
+  "failed_lots": 104,
+  "fail_rate": 0.06636885768985322,
+  "timestamps_swapped": 582,
+  "timestamps_swapped_share": 0.37141033822590935,
+  "order_violations_raw": 6,
+  "order_violations_fixed": 0,
+  "raw_span": "2008-01-08 to 2008-12-10",
+  "fixed_span": "2008-07-19 to 2008-10-17",
+  "constant_sensors": 116,
+  "sensors_over_50pct_missing": 28,
+  "sensors_with_missing": 538,
+  "missing_share": 0.04537548808583821,
+  "fold_boundaries": [
+    "2008-09-01 06:52:00",
+    "2008-09-12 20:28:00",
+    "2008-09-22 00:47:00",
+    "2008-09-30 04:01:00",
+    "2008-10-06 20:47:00"
+  ]
+}
